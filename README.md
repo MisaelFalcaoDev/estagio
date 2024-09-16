@@ -22,6 +22,7 @@ QUESTÃO 05:
     > Se a sala S01 estiver apagada, S01 não é nem L01 nem L02, só podendo ser L03
 
     > 2) Apago L01, deixo L02 acesa e vou à sala S02:
+    
     > Se a sala S02 estiver acesa eu sei que L02 pertence à S02
              ! Então L03 pertence à S01, L02 pertence à S02 e L01 pertence à S03
     
