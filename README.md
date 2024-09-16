@@ -26,7 +26,8 @@ QUESTÃO 05:
 
                  ! Então L03 pertence à S01, L02 pertence à S02 e L01 pertence à S03
     
-              > Se a sala S02 estiver apagada eu sei que L02 pertence à S03
+
+               > Se a sala S02 estiver apagada eu sei que L02 pertence à S03
 
                  ! Então L03 pertence à S01, L02 pertence à S03 e L03 pertence à S02
 
